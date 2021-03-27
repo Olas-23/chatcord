@@ -2,4 +2,4 @@
 
 This app is a Chat Application for Group conversations
 
-It is still to be updates tho
+It is still to be updated tho
